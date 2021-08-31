@@ -10,7 +10,7 @@ Quick start
 -----------
 1. Install via pip into a virtualenv:
 
-    $ pip install git+https://github.com/mohamedsaad308/django-backendtranslation.git
+  $ pip3 install git+https://github.com/mohamedsaad308/django-backendtranslation.git
 
 2. Add "translation" to your INSTALLED_APPS setting like this::
 
